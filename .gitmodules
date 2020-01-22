@@ -1,0 +1,6 @@
+[submodule "jalas"]
+	path = jalas
+	url = git@github.com:TheIdhem/jalas.git
+[submodule "jalas-react"]
+	path = jalas-react
+	url = git@github.com:TheIdhem/jalas-react.git
